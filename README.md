@@ -1,6 +1,6 @@
 # Artificial-Intelliegence
 
-The aim of the project is to implement algorithms that find good driving directions between pairs of cities in the US given by the user. The program runs on the command line like this:__
+The aim of the project is to implement algorithms that find good driving directions between pairs of cities in the US given by the user. The program runs on the command line like this: <br />
 ./route.py [start-city] [end-city] [routing-algorithm] [cost-function] __
 where: __
 • start-city and end-city are the cities we need a route between.
